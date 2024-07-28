@@ -1,4 +1,4 @@
 # apnacollege_demo
-This is my firsrt  <br> 
-git repository
+This is my firsrt git repository
+<br>
 Author Danish 
